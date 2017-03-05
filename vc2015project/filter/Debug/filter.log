@@ -1,0 +1,4 @@
+﻿  Source.cpp
+z:\prog\testsfml\vc2015project\filter\source.cpp(145): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  filter.vcxproj -> Z:\prog\TestSFML\vc2015project\filter\Debug\filter.exe
+  filter.vcxproj -> Z:\prog\TestSFML\vc2015project\filter\Debug\filter.pdb (Full PDB)
